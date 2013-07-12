@@ -10,6 +10,7 @@ The purpose of this tool is to direct a citation cleaning and DOI-based formatti
 * Need to test, unsure if this works from this location
 * Any additional configuration required? 
 * Seems the template is not loading, could restore or re-design
+* Test category: http://en.wikipedia.org/wiki/Category:Pages_with_incomplete_DOI_references
 
 ## Changelog
 So far, nothing
